@@ -103,3 +103,5 @@ while True:
     tcpCliSock.close()
 Setelah itu code tersebut disimpan dan untuk memamnggil nya menggunakan perintah berikut:
 python3 petrus.py 192.168.5.83
+Setelah itu untuk bisa dicek apakah requrest server sudah masuk atau belum, dalam code diatas saya menggunakan port 7000
+cek di Browser: 192.168.5.83:7000 maka akan terlihat pesan yang masuk di ip tersebut
