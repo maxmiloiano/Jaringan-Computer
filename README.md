@@ -13,6 +13,8 @@ salin dan tempelkan code dibawah ini  ke dalam file petrus.py:
 
 python
 Copy code
+
+
 from socket import *
 import sys
 
