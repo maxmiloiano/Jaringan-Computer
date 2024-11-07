@@ -14,6 +14,7 @@ nano petrus.py
 salin dan tempelkan code dibawah ini  ke dalam file petrus.py:
 
 python
+
 Copy code
 
 
