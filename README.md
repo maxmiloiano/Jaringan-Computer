@@ -8,7 +8,9 @@ buka Terminal pada Rasberry Pi.
 Buat File baru untuk menyimpan script python dengan menggunakan perintah berikut:
 
 Copy Code
+
 nano petrus.py
+
 salin dan tempelkan code dibawah ini  ke dalam file petrus.py:
 
 python
